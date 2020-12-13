@@ -1,0 +1,4 @@
+C:\Users\mammu\source\repos\WishList\WishList\obj\Debug\netcoreapp3.1\WishList.csprojAssemblyReference.cache
+C:\Users\mammu\source\repos\WishList\WishList\obj\Debug\netcoreapp3.1\WishList.AssemblyInfoInputs.cache
+C:\Users\mammu\source\repos\WishList\WishList\obj\Debug\netcoreapp3.1\WishList.AssemblyInfo.cs
+C:\Users\mammu\source\repos\WishList\WishList\obj\Debug\netcoreapp3.1\WishList.csproj.CoreCompileInputs.cache
